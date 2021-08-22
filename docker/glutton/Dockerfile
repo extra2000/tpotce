@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:latest
 #
 # Include dist
 ADD dist/ /root/dist/
