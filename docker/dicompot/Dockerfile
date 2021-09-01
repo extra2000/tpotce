@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3
 #
 # Setup apk
 RUN sed -i 's/dl-cdn/dl-2/g' /etc/apk/repositories && \
