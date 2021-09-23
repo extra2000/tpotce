@@ -1,4 +1,4 @@
-FROM node:10.22.1-alpine
+FROM node:10.23.0-alpine
 #
 # VARS
 ENV KB_VER=7.10.1
