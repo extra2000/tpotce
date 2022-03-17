@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.15
 #
 # VARS
 ENV ES_VER=7.10.1 \
